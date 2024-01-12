@@ -1,5 +1,5 @@
 # Rearing-Adversity
-Manuscript title: Heterogeneous behavioral, endocrine and neural outcomes associated with early life rearing adversity in primates
+Manuscript title: Early life adversity in primates: Behavioral, endocrine, and neural effects
 
 Authors: Do P. M. Tromp*1,2,3, Andrew S. Fox*4,5, Marissa K. Riedel1,3, Jonathan A. Oler1,3, Xiaojue Zhou1,3, Patrick H. Roseboom1,3, Andrew L. Alexander1,6, Ned H. Kalin1,2,3
 
